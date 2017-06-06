@@ -54,10 +54,12 @@ div.sidebar{
 #title{
 	position: relative;
 	top: -17px;
+	font-weight: bold;
 }
 	
 #author{
 	font-size: 17px;	
 	font-style: italic;
+	padding-top: 10px;
 }
 
